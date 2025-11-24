@@ -1,0 +1,36 @@
+---
+title: "Skills & Certifications"
+format: html
+---
+
+# Skills & Certifications
+
+## Analytical Skills
+- Market research  
+- Data organization  
+- Problem solving  
+- Process analysis  
+
+## Business & Leadership Skills
+- Sales strategy and negotiation  
+- Customer relationship management  
+- Project coordination  
+- Team collaboration  
+- Cross-cultural communication  
+
+## Technical Skills
+- Microsoft Excel (spreadsheets, basic formulas)  
+- Google Workspace (Docs, Sheets, Slides)  
+- Quarto / Markdown basics  
+- Point-of-sale (POS) systems  
+
+## Certifications
+- Workplace safety training  
+- Sanitization & cleaning standards training  
+- Basic compliance and operations training  
+
+## Languages
+- English  
+- Dzongkha  
+- Hindi  
+- Nepali  

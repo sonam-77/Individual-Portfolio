@@ -1,0 +1,13 @@
+---
+title: "About Me"
+format: html
+---
+
+
+I am a results-driven professional currently pursuing a Master of Business Administration (MBA) at University Canada West (UCW). My background spans roles in accounting, sales, marketing, and operations, giving me a strong understanding of business processes and client relationship management.
+
+With experience in both Bhutan and Canada, I have developed competencies in financial recordkeeping, marketing coordination, sales strategies, and workplace operations. I take pride in analyzing business needs, communicating effectively, and implementing solutions that strengthen performance and customer satisfaction.
+
+My long-term goal is to grow into a managerial role where I can apply analytical thinking, leadership skills, and strategic planning to support organizational growth. I value professionalism, integrity, and continuous learning in every role I take on.
+
+![Profile Photo](photo.jpg)

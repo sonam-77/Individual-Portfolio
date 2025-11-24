@@ -1,0 +1,14 @@
+---
+title: "Contact"
+format: html
+---
+
+
+Thank you for visiting my portfolio website.  
+Feel free to reach out for academic, professional, or networking opportunities.
+
+- **Email:** [somyang78@gmail.com](mailto:somyang78@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/sonam-yangzom-659566342/){target="_blank"}  
+- **Location:** Vancouver, BC  
+
+If you would like to connect, collaborate, or learn more about my work, I would be happy to hear from you.

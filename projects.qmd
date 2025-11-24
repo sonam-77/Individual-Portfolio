@@ -1,0 +1,49 @@
+---
+title: "Projects & Case Studies"
+format: html
+---
+
+
+This page highlights key academic and professional projects showcasing my analytical, strategic, and business capabilities.
+
+---
+
+## Operations Analysis – Process Improvement  
+Applied operations management concepts to identify workflow challenges and propose improvements based on real workplace scenarios such as sales operations, facility management, and customer service processes.
+
+- Evaluated steps in service delivery  
+- Identified bottlenecks and inefficiencies  
+- Suggested solutions for time-saving and better productivity  
+
+---
+
+## Marketing Strategy Development (TATA Motors Bhutan)  
+During my role as a Sales & Marketing Executive, I contributed to the development and coordination of marketing campaigns.
+
+- Created promotional content  
+- Analyzed customer preferences  
+- Supported campaign planning and execution  
+- Strengthened brand visibility through events and materials  
+
+---
+
+## Market Assessment & Data Organization  
+Utilized research and basic data analysis skills to support decision-making related to customer needs and market conditions.
+
+- Organized financial records and sales data  
+- Tracked customer inquiries and follow-ups  
+- Supported planning for seasonal promotions  
+
+---
+
+## MBA Academic Work  
+Throughout my MBA program, I completed projects reflecting critical thinking, leadership, and strategy:
+
+- Marketing communication plan  
+- Team-based leadership reflections  
+- Strategic problem-solving assignments  
+- Business case study analyses  
+
+---
+
+![](chart.png){width="600px" alt="Bar chart showing business graph"}

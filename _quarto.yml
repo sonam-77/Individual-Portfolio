@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir:  docs
+
+website:
+  title: "Sonam Yangzom - MBA Portfolio"
+  navbar:
+    left:
+
+      - text: "Resume"
+        href: resume.qmd
+      - text: "Projects"
+        href: projects.qmd
+      - text: "Skills"
+        href: skills.qmd
+      - text: "Contact"
+        href: contact.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: false

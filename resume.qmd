@@ -1,0 +1,52 @@
+---
+format: html
+---
+## Resume
+📄 [Download My Resume (PDF)](resume.pdf)
+
+## Education
+
+**Master of Business Administration (MBA)**  
+University Canada West, Vancouver (2024–2026)
+
+**Bachelor of Language and Literature**  
+Royal University of Bhutan (2016–2019)
+
+**Diploma in Language and Communication Skills**  
+Royal University of Bhutan (2014–2016)
+
+---
+
+## Experience
+
+### Housekeeping Associate  
+**Aspira Astoria Retirement Living** (May 2025 – Present)  
+- Ensured cleanliness and safety across resident areas.  
+- Followed health standards and collaborated with a diverse team.
+
+### Housekeeping Associate  
+**Simon Fraser University (SFU)** (Feb 2025 – Apr 2025)  
+- Maintained student residences and campus facilities.  
+- Reported issues and ensured smooth daily operations.
+
+### Sales Associate  
+**Retail Store – Vancouver** (Nov 2024 – Jan 2025)  
+- Supported customer service, sales campaigns, and merchandising.  
+- Processed transactions and maintained store presentation.
+
+### Sales & Marketing Executive  
+**Samden Vehicles Pvt. Ltd. (TATA Motors Bhutan)** (2019 – 2024)  
+- Developed sales strategies and coordinated marketing campaigns.  
+- Maintained client relationships and handled financial documentation.
+
+---
+
+## Skills
+
+- Analytical thinking  
+- Financial recordkeeping  
+- Sales & marketing coordination  
+- Team collaboration  
+- MS Excel, Google Workspace  
+- Markdown & Quarto basics  
+- Languages: English, Dzongkha, Hindi, Nepali  
